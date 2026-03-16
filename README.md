@@ -20,15 +20,15 @@
 # Tecnologias
 
 <div class="icon-container">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/HTML.svg" alt="HTML">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/CSS.svg" alt="CSS">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/JavaScript.svg" alt="JavaScript">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/C.svg" alt="C">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/Java-Dark.svg" alt="Java">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/MySQL-Dark.svg" alt="MySQL">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/Spring-Dark.svg" alt="Spring">
-        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo-tech/blob/main/icons/Postman.svg" alt="Postman">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/HTML.svg" alt="HTML">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/CSS.svg" alt="CSS">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/JavaScript.svg" alt="JavaScript">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/C.svg" alt="C">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Java-Dark.svg" alt="Java">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/MySQL-Dark.svg" alt="MySQL">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Spring-Dark.svg" alt="Spring">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Postman.svg" alt="Postman">
     </div>
 
 # Conecte-se comigo
