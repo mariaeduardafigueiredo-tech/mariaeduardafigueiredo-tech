@@ -2,7 +2,7 @@
 
 ## PT-BR
 
-- 🇧🇷 Sou brasileira, tenho 20 anos
+- 🇧🇷 Sou brasileira, tenho 21 anos
    
 👩🏻‍💻 Estou estudando Engenharia de Software
 
