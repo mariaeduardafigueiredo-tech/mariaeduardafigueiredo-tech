@@ -30,7 +30,6 @@
         <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Spring-Dark.svg" alt="Spring">
         <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Postman.svg" alt="Postman">
          <img height="50" src="https://github.com/mariaeduardafigueiredo-tech/mariaeduardafigueiredo-tech/blob/main/icons/Delphi.svg" alt="Delphi">
-
     </div>
 
 # Conecte-se comigo
